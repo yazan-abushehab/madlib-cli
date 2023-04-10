@@ -1,6 +1,6 @@
-# LAB - CLASS 02
+# LAB - CLASS 03
 
-## Project : math-series
+## Project : madlib-cli.
 <br>
 
 ## Author : Yazan Abushhab
